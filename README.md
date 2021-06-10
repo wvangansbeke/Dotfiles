@@ -1,2 +1,3 @@
 # Dotfiles
-VIM and TMUX configs
+
+A minimalistic vimrc and tmux.conf setup. 
